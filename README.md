@@ -17,7 +17,7 @@ Hora de colocar em prática o que foi ensinado na primeira fase do stage 05 e o 
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
